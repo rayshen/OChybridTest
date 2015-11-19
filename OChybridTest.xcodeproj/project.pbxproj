@@ -15,6 +15,7 @@
 		6406D52A1BFD9168007C662B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6406D5281BFD9168007C662B /* LaunchScreen.storyboard */; };
 		6406D5351BFD9169007C662B /* OChybridTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6406D5341BFD9169007C662B /* OChybridTestTests.m */; };
 		6406D5401BFD9169007C662B /* OChybridTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6406D53F1BFD9169007C662B /* OChybridTestUITests.m */; };
+		6406D54E1BFD9264007C662B /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = 6406D54D1BFD9264007C662B /* test.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6406D53B1BFD9169007C662B /* OChybridTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OChybridTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6406D53F1BFD9169007C662B /* OChybridTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OChybridTestUITests.m; sourceTree = "<group>"; };
 		6406D5411BFD9169007C662B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6406D54D1BFD9264007C662B /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				6406D5261BFD9168007C662B /* Assets.xcassets */,
 				6406D5281BFD9168007C662B /* LaunchScreen.storyboard */,
 				6406D52B1BFD9168007C662B /* Info.plist */,
+				6406D54D1BFD9264007C662B /* test.html */,
 				6406D51A1BFD9168007C662B /* Supporting Files */,
 			);
 			path = OChybridTest;
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6406D54E1BFD9264007C662B /* test.html in Resources */,
 				6406D52A1BFD9168007C662B /* LaunchScreen.storyboard in Resources */,
 				6406D5271BFD9168007C662B /* Assets.xcassets in Resources */,
 				6406D5251BFD9168007C662B /* Main.storyboard in Resources */,
